@@ -385,7 +385,7 @@ header nav {
 /* line 280, ../../../ProgrammingWork/course-html-css/uber/src/sass/style.sass */
 .possibility {
   position: relative;
-  min-height: 898px;
+  height: 898px;
   background: #FFFFFF;
 }
 
@@ -838,7 +838,7 @@ footer a:hover {
   /* line 143, ../../../ProgrammingWork/course-html-css/uber/src/sass/_media.sass */
   .subheader_btn {
     display: block;
-    width: 200px;
+    width: 175px;
     height: 40px;
     margin: 0 auto;
     margin-top: 10px;
@@ -897,6 +897,10 @@ footer a:hover {
   /* line 179, ../../../ProgrammingWork/course-html-css/uber/src/sass/_media.sass */
   .footer_links_lang {
     margin-top: 10px;
+  }
+  /* line 181, ../../../ProgrammingWork/course-html-css/uber/src/sass/_media.sass */
+  .possibility {
+    height: 650px;
   }
 }
 
